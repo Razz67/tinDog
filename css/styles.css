@@ -50,10 +50,49 @@ h1 {
 /* Header Iphone Image */
 
 .iphone {
-    transform: rotate(30deg);
+    transform: rotate(25deg);
     width: 60%;
 }
 
+/* Features */
+#features {
+    padding: 5% 15%;
+}
+
+
+#features, h3 {
+    text-align: center;
+}
+
+#features h3 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+
+}
+
+.feature-content {
+    padding-bottom: 5%;
+}
+
+#features .fas {
+    color:#ef8172;
+    margin-bottom: 1rem;
+}
+
+#features p {
+    color: #8f8f8f;
+}
+
+#features i:hover {
+    color: #ff4c68;
+}
+
+/* Testimonials */
+
+#testimonials {
+    
+}
 
 
 
