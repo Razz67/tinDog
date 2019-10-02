@@ -137,6 +137,8 @@ h1 {
     text-align: center;
     padding: 100px;
 }
+
+
 .pricing-clmn {
     padding: 3% 2%;
 }
@@ -158,10 +160,37 @@ h1 {
 /* Call To Action */
 
 #cta {
-    text-align: center; 
+    background-color: #ff4c68;
+    padding: 5% 15%;
+    text-align: center;
 }
 
+#cta h3 {
+    color: white;
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+
 /* Footer */
+
+#footer {
+    padding: 5% 17%;
+    text-align: center;
+}
+
+#footer p {
+    color: #8f8f8f;
+    font-size: .75rem;
+}
+
+.footer-icon {
+    padding: 2%;
+}
+
+.footer-icon:hover {
+    color:#ff4c68;
+}
 
 
 
